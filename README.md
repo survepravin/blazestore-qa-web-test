@@ -9,7 +9,7 @@ This automation framework is using *Selenium Webdriver* tool with *Cucumber*. To
 #### STEPS
 ##### Follow commands to run tests via cmd
 1. `git clone https://github.com/survepravin/blazestore-qa-web-test.git`
-2. `cd backbase-qa-automation`
+2. `cd blazestore-qa-web-test`
 3. `mvn install -DskipTests`
 4. `mvn test -Dheadless=on` or `mvn test` (will take values from config.properties)
 
