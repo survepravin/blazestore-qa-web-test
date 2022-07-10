@@ -1,0 +1,1 @@
+# blazestore-qa-web-test
